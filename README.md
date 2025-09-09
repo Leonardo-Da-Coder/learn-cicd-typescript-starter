@@ -1,6 +1,5 @@
 Leon's version of Boot.dev's Notely app.
-
-
+Added format check
 
 ![alt text goes here](https://github.com/Leonardo-Da-Coder/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 

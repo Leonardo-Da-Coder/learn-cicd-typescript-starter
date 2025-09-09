@@ -1,4 +1,4 @@
-Leon's version of Boot.dev's Notely app
+Leon's version of Boot.dev's Notely app.
 
 # learn-cicd-typescript-starter (Notely)
 
